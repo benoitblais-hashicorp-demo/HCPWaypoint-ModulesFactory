@@ -1,7 +1,7 @@
 <!-- BEGIN_TF_DOCS -->
-# HCP Waypoint Workspaces Factory
+# HCP Waypoint Modules Factory
 
-Code which manages configuration and life-cycle of the HCP Waypoint Workspaces Factory. It is designed to be used from a dedicated VCS-Driven Terraform workspace that would provision and manage the configuration using Terraform code (IaC).
+Code which manages configuration and life-cycle of the HCP Waypoint Modules Factory. It is designed to be used from a dedicated VCS-Driven Terraform workspace that would provision and manage the configuration using Terraform code (IaC).
 
 ## Permissions
 
@@ -41,7 +41,6 @@ There are several ways to provide the required informations:
 ## Features
 
 * HCP Waypoint Template
-* HCP Waypoint Add-on
 
 ## Documentation
 
